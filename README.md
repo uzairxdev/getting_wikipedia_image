@@ -11,16 +11,10 @@ https://github.com/uzairxdev/getting_wikipedia_image/assets/117645470/c500b7eb-5
 
 ## Project Structure
 
-getting_wikimedia_image/
-├── android/
-├── ios/
 ├── lib/
-│   ├── main.dart
-│   ├── image_display_widget.dart
-│   └── image_service.dart
-├── test/
-├── pubspec.yaml
-└── README.md
+  ├── main.dart
+  ├── image_display_widget.dart
+  └── image_service.dart
 
 To run the application, ensure you have Flutter installed. Then, use the following commands:
 
