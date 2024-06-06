@@ -16,7 +16,7 @@ https://github.com/uzairxdev/getting_wikipedia_image/assets/117645470/c500b7eb-5
   ├── image_display_widget.dart
   └── image_service.dart
 
-To run the application, ensure you have Flutter installed. Then, use the following commands:
+To run the application, please make sure you have Flutter installed. Then, use the following commands:
 
 ```bash
 flutter pub get
